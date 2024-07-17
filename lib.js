@@ -1,5 +1,11 @@
-const csv = require('csvtojson');
 const fs = require('fs');
+
+function readJson(src) {
+	const json = fs.readFileSync(src);
+	if (!json) return null;
+	const data = JSON.parse(json);
+	return data;
+}
 
 function writeJson(filePath, body) {
 	fs.writeFile(filePath, JSON.stringify(body, null, 4), 'utf8', function (err) {
@@ -12,8 +18,4 @@ function writeJson(filePath, body) {
 	});
 }
 
-csv()
-	.fromFile(csvFilePath)
-	.then(function (json) {
-		writeJson(csvFilePath.slice(0, -4) + '.json', json);
-	});
+module.exports = { writeJson, readJson };
