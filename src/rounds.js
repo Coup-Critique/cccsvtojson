@@ -1,6 +1,7 @@
 const { writeJson, readJson } = require('./lib');
 
-const datas = readJson(process.argv[2]);
+const src = './json/' + process.argv[2] + '.json';
+const datas = readJson(src);
 
 const rounds = [];
 
@@ -10,4 +11,4 @@ datas.forEach(data => {
 	rounds[data.round][data.bracket].push(data);
 });
 
-writeJson(process.argv[2], rounds);
+writeJson(src, rounds);

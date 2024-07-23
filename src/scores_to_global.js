@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { readJson } = require('./lib');
 
-const scores = readJson('score_tour_pnb.json');
+const scores = readJson('./json/score_tour_pnb.json');
 
 let global = '';
 
@@ -13,9 +13,9 @@ scores.forEach(score => {
 });
 
 global +=
-	'UPDATE player SET user_id = (SELECT id FROM user WHERE user.showdown_name = player.showdown_name);\n';
+	'UPDATE player SET user_id = (SELECT id FROM user WHERE user.showdown_name LIKE player.showdown_name LIMIT 0,1);\n';
 
-const dst = './score_global.sql';
+const dst = './sql/score_global.sql';
 fs.writeFile(dst, global, 'utf8', function (err) {
 	if (err) {
 		console.error('An error occured while writing in ' + dst);

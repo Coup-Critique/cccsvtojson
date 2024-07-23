@@ -377,4 +377,4 @@ INSERT INTO player (showdown_name,points,prize) VALUES ('Hats', 0, 0);
 INSERT INTO player (showdown_name,points,prize) VALUES ('Pepeduce', 0, 0);
 INSERT INTO player (showdown_name,points,prize) VALUES ('PipoMielleux', 0, 0);
 INSERT INTO player (showdown_name,points,prize) VALUES ('Thundershadow18', 0, 0);
-UPDATE player SET user_id = (SELECT id FROM user WHERE user.showdown_name = player.showdown_name);
+UPDATE player SET user_id = (SELECT id FROM user WHERE user.showdown_name LIKE player.showdown_name LIMIT 0,1);
