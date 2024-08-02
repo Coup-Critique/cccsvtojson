@@ -1,0 +1,794 @@
+[
+    {
+        "player": "Akalli",
+        "rank": "1",
+        "sum": "200",
+        "prize": "250"
+    },
+    {
+        "player": "JuyenRPPLF",
+        "rank": "2",
+        "sum": "141",
+        "prize": "0"
+    },
+    {
+        "player": "Stellar Flares",
+        "rank": "3",
+        "sum": "99",
+        "prize": "0"
+    },
+    {
+        "player": "OneLastKiss",
+        "rank": "4",
+        "sum": "70",
+        "prize": "0"
+    },
+    {
+        "player": "Cicada",
+        "rank": "5",
+        "sum": "49",
+        "prize": "0"
+    },
+    {
+        "player": "Maxouille",
+        "rank": "5",
+        "sum": "49",
+        "prize": "0"
+    },
+    {
+        "player": "Lokifan",
+        "rank": "7",
+        "sum": "35",
+        "prize": "0"
+    },
+    {
+        "player": "Macaxandre",
+        "rank": "7",
+        "sum": "35",
+        "prize": "0"
+    },
+    {
+        "player": "HikozaruGG",
+        "rank": "9",
+        "sum": "24",
+        "prize": "0"
+    },
+    {
+        "player": "JojoOui",
+        "rank": "9",
+        "sum": "24",
+        "prize": "0"
+    },
+    {
+        "player": "Antonazz",
+        "rank": "9",
+        "sum": "24",
+        "prize": "0"
+    },
+    {
+        "player": "Goodpepito",
+        "rank": "9",
+        "sum": "24",
+        "prize": "0"
+    },
+    {
+        "player": "Milkylex",
+        "rank": "13",
+        "sum": "17",
+        "prize": "0"
+    },
+    {
+        "player": "LucioCerra",
+        "rank": "13",
+        "sum": "17",
+        "prize": "0"
+    },
+    {
+        "player": "Antho17",
+        "rank": "13",
+        "sum": "17",
+        "prize": "0"
+    },
+    {
+        "player": "Iaoth",
+        "rank": "13",
+        "sum": "17",
+        "prize": "0"
+    },
+    {
+        "player": "Mimilimi",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Zugubu royale",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Micciu",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Kebabmlml",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Cielau",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Elias PSY",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Uzerklu",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Remi25",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Zentrox",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Madara66",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Hervalt",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Multiprise",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Raimus",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Vulpeen",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Issam",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Lou Dort",
+        "rank": "17",
+        "sum": "7",
+        "prize": "0"
+    },
+    {
+        "player": "Yovan",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Mimikyu Stardust",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Umberto",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Vkhss",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Fabionacci",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "ZaraSensei",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Light DN",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "RoiDadadou",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Welli0u",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Armo",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Xyldaz",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Nassim",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Flabeauf",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Foufakirby",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Daharan",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "SM",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Wildygon",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Keshba45",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Youde",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Simuxxie",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Illianes",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "766645",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Wappy",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "TigerQuasar",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Fantominus",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "ReaDynn",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Shiif",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Exotic",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "LegacyYuna",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Tchoupi",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "DidiLaMalice",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "Trognon",
+        "rank": "33",
+        "sum": "4",
+        "prize": "0"
+    },
+    {
+        "player": "RaulGB44",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Ikra",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Torvik",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "S7a",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Silent waltzz",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Extinct",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Crowlignt",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "TPP",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "L0ulstraT09",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Zerwixo",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "TheLastPseudo",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Surimi",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Rubyblood",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Bedal",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Zenomium",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "StazMTA",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Boonty88",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Zenadark",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "HPtheswag",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "LenaIsTrueWaifu",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "FordPrefect",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Pendulum8",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Trihydre",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Zwale",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "RiyadLand",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "JspKiC",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Herosabis",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Yves Stone",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "BetterGreen",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Kindyy",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Rems",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Rino",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Bloodoom",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Mauch2204",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Stecolomaxx",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Lightniong",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Lolol",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Abbehat",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "ClairDeSoleil",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Inoh650",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "massoli",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Uxilon",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Omega Water",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Hoyssxo",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "ChrisCP",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Labellebit",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Kyll",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Mik0ia",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Bocoaa",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Loutio0",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "48",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Elgoz",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Le Yak",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Jorgeta",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "NewShiny",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Lumeon",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Ashleyno",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Krapouchi",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Drudi.exe",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Loganna",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Bogi",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Diamondapa",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Ygane",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Payload13",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "ImRayann",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Itavhyy",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "JiR0k",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    },
+    {
+        "player": "Poulpax",
+        "rank": "65",
+        "sum": "0",
+        "prize": "0"
+    }
+]
